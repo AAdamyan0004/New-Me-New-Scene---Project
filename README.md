@@ -2,7 +2,7 @@
 
 
 **LAST YEAR AND THIS YEAR EXPLAINED**
-In both files, I prioritize using loops to draw multiple images that talk about my goals, accomplishments, places I went to, and two effectsthat I use in the beginning of the program. I have only used chatgpt to debug one issue that was in my program. I also asked Mr aiello for help and stack overflow(because I forgot how to write multi line comments :(
+In both files, I prioritize using loops to draw multiple images that talk about my goals, accomplishments, places I went to, and two effects that I use in the beginning of the program. I have only used chatgpt to debug one issue that was in my program. I also asked Mr aiello for help and stack overflow(because I forgot how to write multi line comments :(
 
 From my experience, chstgpt is by far the best tool to help solve errors in my app, its fast, explains how to fix and how to avoid similar problems in the future. But asking a teacher is always better if you are in a classroom.
 
